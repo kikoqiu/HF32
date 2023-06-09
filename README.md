@@ -31,3 +31,7 @@ HF32 firmware can be flashed to AT32F421 ESCs and configured using the following
 ## Installation & Bootloader
 Compatible with [AM32 bootloader](https://github.com/kikoqiu/AT32F421_AM32_Bootloader). Bootloader can be installed using an JLINK , CMIS-DAP or AT-LINK. 
 After the bootloader has been installed the main firmware from can be installed either with the configuration tools and a Betaflight flight controller or a direct connection with a usb serial adapter modified for one wire.
+
+## Thanks
+HF32 won't reach a release without help from my friends.
+And I learnt a lot about BLDC from AM32 source code.
