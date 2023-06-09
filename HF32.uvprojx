@@ -1793,7 +1793,7 @@
           </BeforeMake>
           <AfterMake>
             <RunUserProg1>0</RunUserProg1>
-            <RunUserProg2>1</RunUserProg2>
+            <RunUserProg2>0</RunUserProg2>
             <UserProg1Name>fromelf.exe --text -a -c --output=@L_asm.txt</UserProg1Name>
             <UserProg2Name>./tools/srec_cat.exe ./Objects/eepdefault.hex -Intel ./Objects/Am32bootloaderpb4.hex -Intel ./Objects/@L.hex -Intel -o ./Objects/@L_merged.hex -Intel</UserProg2Name>
             <UserProg1Dos16Mode>0</UserProg1Dos16Mode>
@@ -2083,7 +2083,7 @@
             <TextAddressRange>0x08001000</TextAddressRange>
             <DataAddressRange>0x20000000</DataAddressRange>
             <pXoBase></pXoBase>
-            <ScatterFile>.\Objects\Am32.sct</ScatterFile>
+            <ScatterFile>.\Objects\HF32.sct</ScatterFile>
             <IncludeLibs></IncludeLibs>
             <IncludeLibsPath></IncludeLibsPath>
             <Misc></Misc>
@@ -2654,7 +2654,7 @@
             <TextAddressRange>0x08001000</TextAddressRange>
             <DataAddressRange>0x20000000</DataAddressRange>
             <pXoBase></pXoBase>
-            <ScatterFile>.\Objects\Am32.sct</ScatterFile>
+            <ScatterFile>.\Objects\HF32.sct</ScatterFile>
             <IncludeLibs></IncludeLibs>
             <IncludeLibsPath></IncludeLibsPath>
             <Misc></Misc>
@@ -2935,7 +2935,7 @@
           </BeforeMake>
           <AfterMake>
             <RunUserProg1>0</RunUserProg1>
-            <RunUserProg2>1</RunUserProg2>
+            <RunUserProg2>0</RunUserProg2>
             <UserProg1Name>fromelf.exe --text -a -c --output=@L_asm.txt</UserProg1Name>
             <UserProg2Name>./tools/srec_cat.exe ./Objects/eepdefault.hex -Intel ./Objects/Am32bootloaderpb4.hex -Intel ./Objects/@L.hex -Intel -o ./Objects/@L_merged.hex -Intel</UserProg2Name>
             <UserProg1Dos16Mode>0</UserProg1Dos16Mode>
@@ -3225,7 +3225,7 @@
             <TextAddressRange>0x08001000</TextAddressRange>
             <DataAddressRange>0x20000000</DataAddressRange>
             <pXoBase></pXoBase>
-            <ScatterFile>.\Objects\Am32.sct</ScatterFile>
+            <ScatterFile>.\Objects\HF32.sct</ScatterFile>
             <IncludeLibs></IncludeLibs>
             <IncludeLibsPath></IncludeLibsPath>
             <Misc></Misc>
@@ -3796,7 +3796,7 @@
             <TextAddressRange>0x08001000</TextAddressRange>
             <DataAddressRange>0x20000000</DataAddressRange>
             <pXoBase></pXoBase>
-            <ScatterFile>.\Objects\Am32.sct</ScatterFile>
+            <ScatterFile>.\Objects\HF32.sct</ScatterFile>
             <IncludeLibs></IncludeLibs>
             <IncludeLibsPath></IncludeLibsPath>
             <Misc></Misc>
@@ -4367,7 +4367,7 @@
             <TextAddressRange>0x08001000</TextAddressRange>
             <DataAddressRange>0x20000000</DataAddressRange>
             <pXoBase></pXoBase>
-            <ScatterFile>.\Objects\Am32.sct</ScatterFile>
+            <ScatterFile>.\Objects\HF32.sct</ScatterFile>
             <IncludeLibs></IncludeLibs>
             <IncludeLibsPath></IncludeLibsPath>
             <Misc></Misc>
@@ -4938,7 +4938,7 @@
             <TextAddressRange>0x08001000</TextAddressRange>
             <DataAddressRange>0x20000000</DataAddressRange>
             <pXoBase></pXoBase>
-            <ScatterFile>.\Objects\Am32.sct</ScatterFile>
+            <ScatterFile>.\Objects\HF32.sct</ScatterFile>
             <IncludeLibs></IncludeLibs>
             <IncludeLibsPath></IncludeLibsPath>
             <Misc></Misc>
@@ -5509,7 +5509,7 @@
             <TextAddressRange>0x08001000</TextAddressRange>
             <DataAddressRange>0x20000000</DataAddressRange>
             <pXoBase></pXoBase>
-            <ScatterFile>.\Objects\Am32.sct</ScatterFile>
+            <ScatterFile>.\Objects\HF32.sct</ScatterFile>
             <IncludeLibs></IncludeLibs>
             <IncludeLibsPath></IncludeLibsPath>
             <Misc></Misc>
@@ -6080,7 +6080,7 @@
             <TextAddressRange>0x08001000</TextAddressRange>
             <DataAddressRange>0x20000000</DataAddressRange>
             <pXoBase></pXoBase>
-            <ScatterFile>.\Objects\Am32.sct</ScatterFile>
+            <ScatterFile>.\Objects\HF32.sct</ScatterFile>
             <IncludeLibs></IncludeLibs>
             <IncludeLibsPath></IncludeLibsPath>
             <Misc></Misc>
@@ -6651,7 +6651,7 @@
             <TextAddressRange>0x08001000</TextAddressRange>
             <DataAddressRange>0x20000000</DataAddressRange>
             <pXoBase></pXoBase>
-            <ScatterFile>.\Objects\Am32.sct</ScatterFile>
+            <ScatterFile>.\Objects\HF32.sct</ScatterFile>
             <IncludeLibs></IncludeLibs>
             <IncludeLibsPath></IncludeLibsPath>
             <Misc></Misc>
@@ -7222,7 +7222,7 @@
             <TextAddressRange>0x08001000</TextAddressRange>
             <DataAddressRange>0x20000000</DataAddressRange>
             <pXoBase></pXoBase>
-            <ScatterFile>.\Objects\Am32.sct</ScatterFile>
+            <ScatterFile>.\Objects\HF32.sct</ScatterFile>
             <IncludeLibs></IncludeLibs>
             <IncludeLibsPath></IncludeLibsPath>
             <Misc></Misc>
