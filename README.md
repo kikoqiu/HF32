@@ -1,3 +1,5 @@
+Notice:
+This experimental version of ESC firmware is no longer maintained. It's still here for some reference. The new version of HF32 is rewritten and the source code is not available here.
 <img align="right" src="logo.svg" alt="Bluejay" width="250">
 
 # HF32
